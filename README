@@ -1,0 +1,7 @@
+#Create a new repository on the command line
+git init
+git add .
+git commit "new commit"
+git branch -M main
+git remote add origin https://github.com/ldvelasco/practica-web-restaurante.git
+git push -u origin main
